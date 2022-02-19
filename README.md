@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Omar 👋
+![Omar ragheb](https://user-images.githubusercontent.com/92755394/154822373-d8dcdcd6-b80b-46bd-a8dd-a34c84bd9bbb.png)
 
-<!--
-**omar25ahmed/omar25ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently taking the path to be Full-Stack web developer
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💬 Ask me about anything you want
+- 📫 How to reach me: ahmed.raph@gmail.com
+- ⚡ Fun fact: Football Lover
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar25ahmed&theme=radical)
