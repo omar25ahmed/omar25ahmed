@@ -17,11 +17,11 @@ About me:
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yersel500&langs_count=10&theme=tokyonight&layout=compact" alt="yersel500 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar25ahmed&langs_count=10&theme=tokyonight&layout=compact" alt="omar25ahmed :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yersel500&show_icons=true&theme=synthwave" alt="yersel :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=omar25ahmed&show_icons=true&theme=synthwave" alt="omar25ahmed :: Profile Stats" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar25ahmed&theme=radical)
 
