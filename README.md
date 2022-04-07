@@ -8,7 +8,7 @@
 About me:
 
 - 🔭 I’m currently taking the path to be Full-Stack web developer
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, React/Redux
 - 💬 Ask me about anything you want
 - 📫 How to reach me: ahmed.raph@gmail.com
 - ⚡ Fun fact: Football Lover
